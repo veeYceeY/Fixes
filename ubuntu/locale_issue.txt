@@ -1,0 +1,4 @@
+Solve problems with locale
+
+$ sudo dpkg-reconfigure locales
+
